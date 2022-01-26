@@ -1,6 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFFFFF&height=160&section=header&text=Hi%20there👋%20&fontAlign=60&fontAlignY=70&fontSize=50&fontColor=000000)
-
+<h1 align="center">Hi there👋</h3>
 <div align="center">
 <a href="https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9J8Sx_7Y9anc6rBftZP783nECiGpLGA94yTlMX4Q82v5zz22y2WceBoCLZAQAvD_BwE" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42#&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
