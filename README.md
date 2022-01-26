@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi%20there👋%20&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=000000)
 
+<div align="center">
 <a href="https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9J8Sx_7Y9anc6rBftZP783nECiGpLGA94yTlMX4Q82v5zz22y2WceBoCLZAQAvD_BwE" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42#&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
@@ -8,6 +9,13 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAASHEO)](https://github.com/DAASHEO/github-readme-stats)
+</div>
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 **DAASHeo/DAASHeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
