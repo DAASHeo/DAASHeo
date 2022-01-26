@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi%20there👋%20&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi%20there👋%20&fontAlign=50&fontAlignY=100&fontSize=50&fontColor=000000)
 
 <div align="center">
 <a href="https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9J8Sx_7Y9anc6rBftZP783nECiGpLGA94yTlMX4Q82v5zz22y2WceBoCLZAQAvD_BwE" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42#&logoColor=FFFFFF"/></a>
