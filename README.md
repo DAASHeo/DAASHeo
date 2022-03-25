@@ -4,8 +4,7 @@
   
 ## ***🌹 A c t i v i t y 🌹***
 ![42Seoul](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42#&logoColor=FFFFFF")
-![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat&generation=9)
-![10th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat&generation=10)<br>
+![Likelion](http://is.am/5yga)<br>
   
 ## ***🛠 t e c h 🛠***
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
