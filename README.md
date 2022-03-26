@@ -4,7 +4,7 @@
   
 ## ***🌹 A c t i v i t y 🌹***
 ![42Seoul](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42#&logoColor=FFFFFF")
-![Likelion](http://is.am/5yga)<br>
+![Likelion](http://is.am/5yga)<br> <!--made by eun-->
   
 ## ***🛠 t e c h 🛠***
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
