@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Born&nbsp;to&nbsp;code✈️&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Born&nbsp;to&nbsp;code✈️&fontSize=50)
 
 <div align="center">
   
