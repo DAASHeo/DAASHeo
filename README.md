@@ -20,7 +20,9 @@
 
 ## ***🔮 T o t a l 🔮***
 ![DAASHeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAASHeo&hide_title=true&show_icons=true&include_all_commits=false&disable_animations=false&theme=buefy)
-
+  
+## ***🎆 Contact 🎆***
+<a href="https://velog.io/@eheo"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 <!--
 **DAASHeo/DAASHeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
