@@ -23,6 +23,7 @@
   
 ## ***🎆 Contact 🎆***
 <a href="https://velog.io/@eheo"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://instagram.com/eun_coding?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!--
 **DAASHeo/DAASHeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
