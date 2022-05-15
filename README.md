@@ -35,7 +35,7 @@
 ![42Seoul](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42#&logoColor=FFFFFF")
 ![LIKELION.UNIV](http://is.am/5ywn)<br> <!--made by eun-->
   
-<h2>You can find me</h2>
+<h2>console.log("Develop record");</h2>
 <a href="https://velog.io/@eheo"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://www.instagram.com/eun_coding/"><img src="https://img.shields.io/badge/Instagram-2A0C99?style=flat-square&logo=Instagram&&logoColor=white"/></a>
 
