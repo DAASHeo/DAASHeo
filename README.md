@@ -9,11 +9,7 @@
   
   
 <h2>My Skills</h2>
-<h5>Base Skils</h5>
 
-![C](https://img.shields.io/badge/C-%23F7DF1E?style=flat-square&logo=c&logoColor=black&color=A8B9CC)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 <h5>Frontend</h5>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -32,11 +28,9 @@
 
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-2C011D?style=flat-square&logo=Adobe%20XD&Color=#2C011D)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=Framer&logoColor=)
-<h5>Now Studying</h5>
 
-![Unity](https://img.shields.io/badge/Unity-A6A6A5?style=flat-square&logo=Unity&logoColor=black)
 
-<h2>console.log("Develop record");</h2>
+<h2>Console.log("Develop record");</h2>
 <a href="https://velog.io/@eheo"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://www.instagram.com/eun_coding/"><img src="https://img.shields.io/badge/Instagram-2A0C99?style=flat-square&logo=Instagram&&logoColor=white"/></a>
 
@@ -62,7 +56,11 @@
 ## ***🎆 Contact 🎆***
 <a href="https://velog.io/@eheo"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
+<h5>Base Skils</h5>
 
+![C](https://img.shields.io/badge/C-%23F7DF1E?style=flat-square&logo=c&logoColor=black&color=A8B9CC)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
 뱃지
 
