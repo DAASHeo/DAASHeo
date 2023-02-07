@@ -20,15 +20,6 @@
 <h5>Backend</h5>
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-<h5>App</h5>
-
-![React-Native](https://img.shields.io/badge/React%20Native-020202?style=flat-square&logo=create%20react%20app&logoColor=#36d3f3)
-![AndroidStudio](https://img.shields.io/badge/Android%20Studio-020202?style=flat-square&logo=android%20studio&logoColor=#46d484)
-<h5>Design</h5>
-
-![AdobeXD](https://img.shields.io/badge/Adobe%20XD-2C011D?style=flat-square&logo=Adobe%20XD&Color=#2C011D)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=Framer&logoColor=)
-![Figma](https://img.shields.io/badge/Figma-020202?style=flat-square&logo=Figma&logoColor=)
 
 
 <h2>Console.log("Develop record");</h2>
