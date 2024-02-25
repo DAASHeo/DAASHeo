@@ -43,10 +43,6 @@
 <a href="https://www.instagram.com/eun_coding/"><img src="https://img.shields.io/badge/Instagram-2A0C99?style=flat-square&logo=Instagram&&logoColor=white"/></a><br><br>
 
 
-<h5>My GitHub stats</h5>
-
-![DAASHeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAASHeo&hide_title=true&show_icons=true&include_all_commits=false&disable_animations=false&theme=buefy)
-
  </div> 
 
 
